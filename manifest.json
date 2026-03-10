@@ -1,0 +1,19 @@
+{
+  "name": "Dragonia",
+  "short_name": "Dragonia",
+  "theme_color": "",
+  "background_color": "#38282E",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773157663-favicon.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

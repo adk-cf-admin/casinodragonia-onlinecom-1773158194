@@ -1,0 +1,215 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#38282E",
+            "lang-select-color": "#222829",
+            "bg-light": "#38282E",
+            "welcome-bonus-bg": "#38282E",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#624651",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#683721",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#CE6B09",
+            "yellow": "#683721",
+            "yellow-button": "#CE6B09",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#38282E",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#38282E",
+            "faq-label": "#38282E",
+            "bg-footer": "#38282E",
+            "copyright": "#e7e7d5",
+            "starColor": "#CE6B09",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4164"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4166",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Dragonia Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4173",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Dragonia"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Dragonia",
+                    "title": "Dragonia Casino — Best AU Online Casino | A$750 Bonus",
+                    "description": "Play at Dragonia Casino Australia with 10,000+ top pokies, live dealers & instant A$750 welcome bonus + 200 Free Spins. Trusted crypto-friendly AU operator.\n",
+                    "canonical": "casinodragonia-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4172",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinodragonia-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4169"
+                },
+                "hero": {
+                    "title": "Australia's Most Rewarding Online Casino Platform",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4174",
+                    "imageSizeModifier": -20,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4175",
+                    "mobileImageSizeModifier": -25,
+                    "mobileImageYModifier": 4,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a premier gaming destination in Australia? We operate under a verified Anjouan license, providing safe AUD transactions, over 10,000 top-tier titles, and 24\/7 dedicated support. Here is why Aussie players choose us daily:\n",
+                    "items": [
+                        "10,000+ games including pokies from Pragmatic Play and Evolution",
+                        "Generous 100% welcome bonus up to A$750 plus 200 Free Spins",
+                        "Secure crypto and fiat banking options tailored for Australians",
+                        "Unique Bonus Crab gamification, daily challenges, and VIP shop",
+                        "24\/7 dedicated customer support via live chat for AU players"
+                    ],
+                    "advantagesAfterText": "Join thousands of satisfied Australians exploring our dragon-themed platform. With rapid withdrawals, exclusive VIP rewards, and audited RNG mechanics, your premier gaming journey starts right here.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Dragonia App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4176",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Dragonia App",
+                    "mobileGooglePlayImageTitle": "Dragonia App",
+                    "mobileIosImageTitle": "Dragonia App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Dragonia Casino",
+                        "description1": "Operating globally, we have tailored our premium dragon-themed platform specifically for Australian players. We provide an unparalleled entertainment hub featuring over 10,000 certified games, massive jackpots, and immersive live dealer rooms.\n",
+                        "items": [
+                            "Launched dedicated AUD banking options and crypto",
+                            "Expanded pokies library to over 7,500 certified titles",
+                            "Introduced the innovative Bonus Crab claw machine",
+                            "Achieved strict Anjouan Gaming Board certification"
+                        ],
+                        "description2": "Security remains our absolute priority for Australian users. We operate under Anjouan license #ALSI-152406028-FI2, managed by NovaForge Ltd. Our platform utilizes advanced 256-bit SSL encryption to protect every AUD and cryptocurrency transaction.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4177",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continue to enhance our offerings with exclusive Aussie tournaments and localized promotions. Explore our dynamic VIP program, utilize our responsible gaming tools, and experience why we are rapidly becoming Australia's favorite digital casino.\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Casino Games Portfolio for Aussie Players",
+                        "description": "<h2>Explore the Ultimate Casino Games Portfolio for Australian Players<\/h2>\n\n<p>As Australia's leading digital gambling hub, Dragonia Casino takes immense pride in offering an unparalleled and expansive library of over 10,000 certified games. Whether you reside in the bustling streets of Sydney, the cultural center of Melbourne, or the beautiful coasts of Perth, our platform delivers a premium gaming experience directly to your screens. We have meticulously curated our gaming portfolio to cater specifically to the diverse preferences of Aussie players, ensuring that every session is packed with excitement, fairness, and massive winning potential. Operating under the strict regulatory oversight of the Anjouan Gaming Board with license number ALSI-152406028-FI2, and managed by the reputable NovaForge Ltd, we guarantee a secure betting environment. Every title in our collection undergoes rigorous independent testing by top-tier auditing firms like iTech Labs, ensuring that our Random Number Generators (RNG) function flawlessly and maintain an impressive average win rate of 97.85%.<\/p>\n\n<h3>World-Class Pokies and Video Slot Machines<\/h3>\n<p>The heart and soul of our casino portal lies in our phenomenal collection of over 7,500 video pokies. We understand that Australian players have a deep-rooted passion for pokie games, which is why we have partnered with industry-leading software providers such as Pragmatic Play, NetEnt, Play'n GO, Hacksaw Gaming, and Red Tiger. Our extensive library features everything from nostalgic three-reel classic slots to modern, feature-rich Megaways titles that offer hundreds of thousands of ways to win. By utilizing advanced HTML5 technology, we ensure that every spin is accompanied by stunning high-definition graphics, immersive soundscapes, and mathematically verified fair outcomes. Our platform categorizes these games seamlessly, allowing you to filter by provider, theme, volatility, or bonus features, making it incredibly easy to find your next favorite title among our vast selection.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways Pokies:<\/strong> Experience dynamic reel modifiers with titles that offer up to 117,649 ways to win, featuring cascading reels and escalating multipliers that maximize your payout potential.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus Buy Features:<\/strong> Skip the base game grind and instantly purchase entry into highly lucrative free spins rounds. We offer a dedicated section for Bonus Buy pokies tailored for high-action Aussie players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>High Volatility Slots:<\/strong> For those seeking massive payouts, our high variance pokies like Gates of Olympus and Dead or Alive 2 offer significant maximum win caps, often exceeding 10,000x your initial bet.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic 3-Reel Games:<\/strong> Enjoy the nostalgic feel of traditional fruit machines, optimized with modern graphics and smooth mechanics, perfect for straightforward and fast-paced gambling sessions.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cluster Pays Mechanics:<\/strong> Break away from traditional paylines with grid-based slots like Sweet Bonanza, where matching symbols in clusters trigger explosive chain reactions and substantial rewards.<\/li>\n<\/ul>\n\n<h3>Do you offer progressive jackpot pokies for Aussie players?<\/h3>\n<p>Yes, we feature an exclusive dedicated category comprising over 3,600 progressive jackpot-enabled games with massive AUD prize pools ready to be triggered by lucky Australian players at any moment.<\/p>\n\n<p>Our progressive jackpot network is one of the most comprehensive available in the Australian market. We host globally recognized jackpot networks, including Games Global's legendary Mega Moolah series and the revolutionary WowPot jackpots, which frequently accumulate multi-million Australian dollar prize pools. Beyond the colossal network jackpots, we also provide a thrilling selection of daily drops and must-win jackpots powered by Pragmatic Play. These localized progressive systems ensure that multiple smaller, yet highly rewarding, jackpots are guaranteed to pay out every single day. The transparent mechanics of our progressive slots mean that a portion of every wager contributes to the communal pot, creating rapidly expanding prizes. Because our entire system is audited and certified, you can rest assured that when you hit that life-changing combination, your monumental payout is guaranteed to be honored securely and swiftly.<\/p>\n\n<h3>Immersive Live Dealer Games and Game Shows<\/h3>\n<p>For players craving the authentic atmosphere of a land-based casino without leaving the comfort of their homes, our live dealer section is a masterpiece of modern gaming technology. We broadcast over 700 live tables in stunning 4K resolution from professional studios worldwide, primarily powered by the legendary Evolution Gaming and Pragmatic Play Live. Our English-speaking, professionally trained croupiers interact with you in real-time, creating a highly engaging and social environment. Australian players can enjoy a seamless, latency-free streaming experience across all devices, thanks to our robust server infrastructure. We offer comprehensive betting limits to accommodate both casual enthusiasts and high-rolling VIPs, ensuring that everyone finds a seat at their preferred table.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #d97813;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Max<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #37282a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">A$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">A$5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #443235;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">A$1.00<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">A$10,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #37282a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">A$1.00<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">A$5,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Classic Table Games Collection<\/h3>\n<p>In addition to our live offerings, we maintain a robust selection of purely RNG-based classic table games. These digital iterations of casino staples are perfect for Australian players who prefer to control the pace of their gaming session. Without the timer of a live dealer, you can strategize your Blackjack hands or carefully place your Roulette bets. Our software ensures pristine graphics, intuitive interfaces, and mathematically sound house edges. We offer dozens of variations, allowing you to explore different rule sets and side bets that enhance the traditional gameplay experience while maintaining optimal performance.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Roulette Variations:<\/strong> Play European Roulette with its single zero and favorable 97.3% RTP, or explore French Roulette utilizing the La Partage rule to further decrease the house edge on even-money bets.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Strategic Blackjack:<\/strong> Engage in Classic Blackjack, Multi-Hand Blackjack, and Double Exposure. Utilize basic strategy to push the theoretical return to player above 99%, maximizing your profitability.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Baccarat and Punto Banco:<\/strong> Enjoy the sophisticated simplicity of Baccarat with its straightforward betting options. We offer versions with standard commissions and No Commission Baccarat variants.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Video Poker Selection:<\/strong> Combine slot mechanics with poker strategy in games like Jacks or Better, Deuces Wild, and Aces and Faces. These games provide some of the highest payout percentages available on our platform.<\/li>\n<\/ul>\n\n<h3>Exclusive Bonus Crab and Gamification Features<\/h3>\n<p>What truly sets Dragonia Casino apart in the competitive Australian market is our innovative approach to player gamification. We have seamlessly integrated an immersive fantasy theme with highly rewarding interactive features, most notably our exclusive Bonus Crab mechanic. Whenever you make qualifying deposits, you earn tokens that grant you access to a virtual, real-time claw machine. Successfully grabbing a prize within the time limit awards you with instant free spins, bonus funds, or exclusive loyalty coins. Furthermore, our platform constantly updates with daily challenges and weekly tournaments. By completing specific milestones across your favorite pokie games, you accumulate experience points and virtual currency. This currency can be spent in our dedicated Bonus Shop, allowing you to purchase customized rewards, higher value spins, and tailored deposit matches, ensuring that your loyalty is consistently recognized and rewarded.<\/p>\n\n<h3>Mobile Casino Experience Across Australia<\/h3>\n<p>We recognize that modern Australian players demand flexibility, which is why the entire Dragonia Casino platform is built upon a mobile-first architecture. There is absolutely no need to clutter your device with bulky application downloads. Our website is perfectly optimized for all major mobile browsers, ensuring flawless compatibility with both iOS and Android smartphones and tablets. Whether you are commuting, relaxing at home, or on a lunch break, our responsive design dynamically adapts to your screen size. You retain full access to our massive library of 10,000+ games, secure cashier options, and the Bonus Crab feature without any compromise in visual quality or loading speeds. Experience the ultimate freedom of premium mobile gaming wherever you are in Australia.<\/p>\n\n<h3>Commitment to Fair Play and Independent RNG Auditing<\/h3>\n<p>Trust and transparency form the bedrock of our relationship with our Australian community. We operate under the stringent guidelines mandated by the Anjouan Gaming Board, a respected international regulatory authority that ensures all our operational practices meet global standards for fairness and security. However, our commitment to player safety goes far beyond basic licensing. Every single software provider featured on our platform, from NetEnt to Evolution Gaming, subjects their underlying algorithms and Random Number Generators to exhaustive testing by independent auditing laboratories. Organizations such as iTech Labs and eCOGRA continuously monitor our game libraries, analyzing millions of simulated spins to verify that the mathematical models align precisely with the advertised Return to Player (RTP) percentages. This multi-layered approach to security ensures that every spin of the pokies, every dealt card in Blackjack, and every revolution of the Roulette wheel is governed entirely by chance, completely devoid of any external manipulation. Furthermore, we maintain transparent payout reports, giving our Aussie players complete confidence that they are participating in a demonstrably fair digital ecosystem where substantial, legitimate victories happen every single day.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Secure Banking Options & Bonuses for AU Players",
+                        "description": "<h2>Secure Banking Options and Bonuses for AU Players<\/h2>\n\n<p>At Dragonia Casino, we fully understand that a seamless, secure, and rapid financial ecosystem is absolutely essential for a premium gaming experience. We have invested heavily in constructing a robust cashier system specifically optimized for the Australian market, allowing you to manage your funds with complete confidence. Whether you are making your very first deposit to claim our generous welcome package or withdrawing a massive jackpot victory, our platform processes all AUD transactions efficiently and transparently. We are proudly operated by the esteemed NovaForge Ltd, a corporate entity that adheres to the highest international financial compliance standards. To safeguard your sensitive personal data and financial details, our entire network is fortified by military-grade 256-bit Secure Socket Layer (SSL) encryption protocols, the exact same technology utilized by leading global banking institutions. This impenetrable security infrastructure ensures that Australian players can focus entirely on enjoying our expansive library of casino games, safe in the knowledge that their capital is protected against any potential unauthorized access.<\/p>\n\n<h3>Fast and Secure Deposit Methods<\/h3>\n<p>We have curated a highly diverse and localized selection of deposit gateways designed to provide maximum convenience for Aussie players. Recognizing the unique preferences within the Australian market, we proudly support a wide array of fiat currency options alongside cutting-edge cryptocurrency solutions. Every single deposit made into your account is processed instantly, meaning you never have to wait to start enjoying your favorite pokie games or live dealer tables. Furthermore, we strictly adhere to a zero-fee policy on all incoming transactions; the exact amount you choose to deposit is the exact amount that arrives in your casino balance, giving you maximum value for your Australian dollars and protecting your gambling budget.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Credit and Debit Cards:<\/strong> We accept all major global providers, including Visa and Mastercard. Card deposits offer a familiar, highly secure method for instantly funding your account with robust fraud protection directly linked to your bank.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>E-Wallets and Digital Payments:<\/strong> Utilize modern digital wallet solutions like MiFinity and Jeton. These platforms act as a secure intermediary between your bank and our casino portal, adding an extra layer of privacy to your gambling transactions.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Prepaid Vouchers:<\/strong> For players who prioritize absolute anonymity and budget control, we fully support Paysafecard and Neosurf. Simply purchase a voucher locally and enter the PIN for instantaneous, secure AUD funding without sharing bank details.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Direct Bank Transfers:<\/strong> Connect your local Australian bank account directly to our secure gateway for substantial, high-volume deposits, perfect for VIP players and high-stakes enthusiasts seeking reliable, high-limit funding options.<\/li>\n<\/ul>\n\n<h3>How long do withdrawals take for Australian accounts?<\/h3>\n<p>We pride ourselves on our rapid processing speeds; cryptocurrency and e-wallet withdrawals are typically finalized within 24 hours, while standard bank transfers to Australian institutions process securely within 3 to 5 business days.<\/p>\n\n<p>When you secure a substantial win, we believe you should access your funds as quickly as possible. Our dedicated financial team works around the clock to review and approve all withdrawal requests efficiently. To ensure absolute security and comply with international Anti-Money Laundering (AML) regulations, we implement a straightforward Know Your Customer (KYC) verification process. By simply uploading standard identification documents, such as an Australian driver's license and a recent utility bill, you unlock our expedited payout tiers. Our standard withdrawal limits are highly accommodating, allowing you to cash out up to A$5,000 per transaction seamlessly. For our dedicated VIP members, these withdrawal ceilings are significantly elevated, ensuring that even the most monumental jackpot victories can be transferred to your personal accounts with minimal friction.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #d97813;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Max<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #37282a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Bitcoin<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">A$20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">A$5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #443235;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Ethereum<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">A$20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">A$5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #37282a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Visa<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">A$20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">A$3,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #443235;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>MiFinity<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">A$15<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">A$4,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Cryptocurrency Integration for Seamless Betting<\/h3>\n<p>As a progressive and forward-thinking digital platform, Dragonia Casino stands at the forefront of the crypto-gambling revolution in Australia. We offer comprehensive support for major decentralized currencies, including Bitcoin (BTC), Ethereum (ETH), Tether (USDT), Litecoin (LTC), and Dogecoin (DOGE). By utilizing blockchain technology, Australian players benefit from unprecedented levels of financial privacy, bypassing traditional banking restrictions entirely. Cryptocurrency transactions circumvent intermediary institutions, meaning both your deposits and your withdrawals flow directly between your personal crypto wallet and our secure casino ledger. This decentralized approach not only guarantees near-instantaneous processing times but also virtually eliminates cross-border transaction fees. For Aussie players seeking maximum anonymity and lightning-fast payouts, our crypto cashier is the ultimate banking solution.<\/p>\n\n<h3>Rewarding Welcome Bonus and Ongoing Promotions<\/h3>\n<p>We strongly believe in delivering exceptional value from the very moment you join our community. New Australian players are greeted with a highly competitive welcome package designed to significantly boost your initial bankroll. Upon making your first qualifying deposit, you can claim a massive 100% match bonus up to A$750, instantly doubling your playing funds. In addition to the cash match, we award you 200 Free Spins on our most popular, high-RTP pokies, distributing the excitement over your first few days. As a unique gamification twist, you will also receive one exclusive Bonus Crab token, allowing you to participate in our interactive claw machine mini-game for immediate extra rewards. Our promotional terms are transparent and fair, featuring an industry-standard 35x wagering requirement on the bonus and deposit amount, giving you a genuine, mathematically viable opportunity to convert your bonus credits into withdrawable cash.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekly Reload Spins:<\/strong> Keep the momentum going every single week. By making a qualifying mid-week deposit, you instantly unlock 50 additional free spins, allowing you to explore new pokie releases without risking your own capital.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekend Reload Bonus:<\/strong> Capitalize on your weekend leisure time with our substantial weekend reload package, offering up to A$1,000 in matched funds alongside an extra batch of free spins for maximum weekend entertainment.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Casino Cashback:<\/strong> We mitigate your risks at the live dealer tables. Enjoy a generous 25% cashback on live casino net losses, credited straight to your real money balance with incredibly low 1x wagering requirements.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Drops & Wins Tournaments:<\/strong> Opt-in to our ongoing Pragmatic Play Drops & Wins network, where thousands of Australian dollars are randomly awarded daily simply for playing eligible pokies, alongside massive weekly leaderboard prizes.<\/li>\n<\/ul>\n\n<h3>Exclusive VIP Program and Loyalty Rewards<\/h3>\n<p>Loyalty is heavily rewarded at our establishment. Our comprehensive, multi-tiered VIP program is specifically structured to cater to our most dedicated Australian players. As you consistently engage with our extensive game library, you naturally accumulate loyalty points, elevating your account through five distinct prestige levels. As a VIP member, the casino experience transforms dramatically. You gain access to a dedicated, personal account manager who is available around clock to tailor bespoke bonuses specifically to your playing style. Financial boundaries expand significantly, with customized, higher monthly withdrawal limits enabling you to cash out monumental wins effortlessly. Furthermore, upper-tier VIPs enjoy weekly cashback percentages up to 15% on overall losses, exclusive invitations to private live tournaments, and personalized birthday gifts, ensuring that your dedication is met with elite, world-class service.<\/p>\n\n<h3>Mobile Banking and On-the-Go Financial Management<\/h3>\n<p>The modern Australian lifestyle demands seamless mobility, and our financial infrastructure perfectly accommodates players who prefer to manage their funds via smartphones and tablets. The Dragonia Casino cashier is entirely optimized for mobile browsers, presenting a clean, highly intuitive user interface that operates flawlessly on both iOS and Android operating systems. You can execute lightning-fast deposits, request substantial withdrawals, and track your ongoing bonus wagering progress with just a few taps on your screen. The implementation of advanced biometric security features, combined with our 256-bit SSL encryption, ensures that your mobile transactions are just as secure as those performed on a desktop computer. Whether you are funding your account using integrated mobile wallets or copying a Bitcoin wallet address directly from your mobile crypto app, our platform guarantees that your financial operations remain swift, secure, and entirely frictionless, no matter where your daily Australian adventures take you.<\/p>\n\n<h3>Dedicated Customer Support and Responsible Gaming<\/h3>\n<p>Providing impeccable customer service is a cornerstone of our philosophy. We recognize that Australian players may be active across various time zones, from Sydney to Perth. Therefore, our professional support team is available 24 hours a day, 7 days a week, 365 days a year. Whether you have a query regarding a specific pokie game's RTP, need assistance navigating our crypto deposit methods, or want clarification on wagering requirements, our native English-speaking agents are instantly accessible via our highly responsive live chat portal. For more detailed inquiries, you can reach out via our dedicated email at support@dragonia.com, where we guarantee comprehensive responses within a few hours. Additionally, we are deeply committed to fostering a sustainable gambling environment. We provide our Aussie players with a robust suite of responsible gaming tools, allowing you to effortlessly set personal deposit limits, establish session time caps, and activate cooling-off or self-exclusion periods whenever you feel the need to manage your recreational spending.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I claim my welcome bonus at this casino?",
+                            "answer": "Create your account and deposit a minimum of A$30 via Visa, Mastercard, or Crypto. Your 100% bonus up to A$750 + 200 free spins credits automatically. Wagering requirement is 35x. Our 24\/7 support assists Aussie players via live chat anytime.\n"
+                        },
+                        {
+                            "title": "What payment methods do you accept for Australian players?",
+                            "answer": "We accept secure AUD deposits via Visa, Mastercard, Neosurf, and MiFinity, alongside cryptocurrencies like Bitcoin, Ethereum, and USDT. All deposits are instantly credited with zero fees, allowing you to access our 10,000+ games immediately.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take to Australian accounts?",
+                            "answer": "Cryptocurrency and e-wallet withdrawals are processed within 24 hours. Standard bank transfers may take 1-3 business days. Verify your account with standard KYC documents to ensure rapid payouts up to our A$5,000 standard limit.\n"
+                        },
+                        {
+                            "title": "Is Dragonia Casino licensed and safe for real money gaming?",
+                            "answer": "Yes, we operate securely under the Anjouan Gaming Board license (#ALSI-152406028-FI2) managed by NovaForge Ltd. We utilize 256-bit SSL encryption to protect all your data, while independent auditors rigorously test our RNG systems.\n"
+                        },
+                        {
+                            "title": "Can I play live dealer games on my mobile phone in Australia?",
+                            "answer": "Absolutely, our entire live casino portfolio featuring over 700 tables is fully optimized for mobile play. Whether using an iOS or Android device, you can stream professional dealers in HD without downloading any dedicated application.\n"
+                        },
+                        {
+                            "title": "What is the Bonus Crab feature and how does it work?",
+                            "answer": "The Bonus Crab is our exclusive gamification feature where you earn tokens through deposits and daily challenges. You use these tokens in a virtual claw machine to grab real prizes, including free spins, bonus cash, and exclusive rewards.\n"
+                        },
+                        {
+                            "title": "Do you offer a VIP program for regular Aussie players?",
+                            "answer": "Yes, our comprehensive 5-tier VIP program rewards dedicated players with exclusive perks. Benefits include higher monthly withdrawal limits, dedicated account managers, personalized birthday gifts, and weekly cashback up to 25%.\n"
+                        },
+                        {
+                            "title": "What documents do I need for account verification?",
+                            "answer": "To complete our standard KYC process, simply upload a copy of your valid government-issued ID (passport or driver's license) and a recent utility bill or bank statement showing your Australian residential address within the last three months.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
